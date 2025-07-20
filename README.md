@@ -19,11 +19,11 @@ Each folder contains the required HTML and CSS files for that project.
 
 🖥️ These are beginner-friendly responsive web design projects.
 
-## 📝 Survey Form Project
+## Click here to see the output
 
 - [Survey Form](https://anagha-m-anil.github.io/FCC-Projects/fcc-survey-form/)
-- [Tribute Page](https://anagha-m-anil.github.io/FCC-Projects/tribute-page/)
-- [Technical Documentation](https://anagha-m-anil.github.io/FCC-Projects/technical-documentation/)
-- [Product Landing Page](https://anagha-m-anil.github.io/FCC-Projects/product-landing-page/)
 - [Personal Portfolio](https://anagha-m-anil.github.io/FCC-Projects/personal-portfolio/)
+- [Product Landing Page](https://anagha-m-anil.github.io/FCC-Projects/product-landing-page/)
+- [Technical Documentation](https://anagha-m-anil.github.io/FCC-Projects/technical-documentation/)
+- [Tribute Page](https://anagha-m-anil.github.io/FCC-Projects/tribute-page/)
 
