@@ -19,5 +19,9 @@ Each folder contains the required HTML and CSS files for that project.
 
 🖥️ These are beginner-friendly responsive web design projects.
 
+## 📝 Survey Form Project
+
+🔗 **[Click here to view the live output](https://anagha-m-anil.github.io/FCC-Projects/fcc-survey-form/)**  
+
 
 
