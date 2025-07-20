@@ -21,7 +21,9 @@ Each folder contains the required HTML and CSS files for that project.
 
 ## 📝 Survey Form Project
 
-🔗 **[Click here to view the live output](https://anagha-m-anil.github.io/FCC-Projects/fcc-survey-form/)**  
-
-
+- [Survey Form](https://anagha-m-anil.github.io/FCC-Projects/fcc-survey-form/)
+- [Tribute Page](https://anagha-m-anil.github.io/FCC-Projects/tribute-page/)
+- [Technical Documentation](https://anagha-m-anil.github.io/FCC-Projects/technical-documentation/)
+- [Product Landing Page](https://anagha-m-anil.github.io/FCC-Projects/product-landing-page/)
+- [Personal Portfolio](https://anagha-m-anil.github.io/FCC-Projects/personal-portfolio/)
 
