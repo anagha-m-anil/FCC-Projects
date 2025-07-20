@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+}
+
+#navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #333;
+  padding: 10px 0;
+  text-align: center;
+  z-index: 1000;
+}
+
+#navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+#navbar li {
+  margin: 0 15px;
+}
+
+#navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#welcome-section {
+  height: 100vh;
+  background: linear-gradient(to right, #667eea, #764ba2);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+#projects {
+  padding: 60px 20px;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.project-tile {
+  display: inline-block;
+  margin: 20px;
+  border: 1px solid #ccc;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 300px;
+  text-align: center;
+}
+
+.project-tile img {
+  width: 100%;
+  height: auto;
+}
+
+.project-tile p {
+  padding: 10px;
+  background-color: #eee;
+  font-weight: bold;
+}
+
+/* Media Query */
+@media (max-width: 600px) {
+  #navbar ul {
+    flex-direction: column;
+  }
+
+  .project-tile {
+    width: 90%;
+  }
+}
